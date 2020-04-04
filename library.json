@@ -1,0 +1,21 @@
+{
+  "name": "HttpBasicWebService",
+  "keywords": "http, web service, ota upload, board info",
+  "description": "extensible web service that allows FW upload via OTA, prints device status, file system listing",
+  "homepage": "https://github.com/yapiolibs/udpbridge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yapiolibs/httpbasicwebservice.git"
+  },
+  "authors": [
+    {
+        "name": "Raoul Rubien",
+        "url": "https://github.com/rubienr",
+        "maintainer" : "true"
+    }
+  ],
+
+  "version": "0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif8266, esp32"
+}
